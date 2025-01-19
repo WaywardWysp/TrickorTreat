@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="RestartBackground" style="flex-grow: 1; background-color: rgba(135, 42, 49, 0.71);">
+        <ui:VisualElement name="Banner" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); background-image: url(&apos;project://database/Assets/Art/Base%20Art/IMG_1054.PNG?fileID=21300000&amp;guid=6ca6cd53257425542bb642422d379408&amp;type=3#IMG_1054&apos;); -unity-text-outline-color: rgb(237, 165, 141); color: rgb(161, 81, 68);">
+            <ui:Label tabindex="-1" text="Perfect Choice!&#10;&#10;Press R to Replay" display-tooltip-when-elided="true" name="PressRText" style="top: 32%; right: 0; left: 2%; align-items: center; align-self: center; justify-content: flex-start; font-size: 50%; -unity-font-style: bold; -unity-text-align: upper-center; -unity-text-outline-color: rgb(237, 165, 141); width: 57%; height: 25%;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

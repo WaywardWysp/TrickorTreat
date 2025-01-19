@@ -1,0 +1,38 @@
+
+											-Read Me-
+		Oh, where to begin... I have discovered the rush of building a game in one day because
+	I was flying to close to the sun when coding and managed to corrupt the game. I had not 
+	uploaded anything to GitHub or an external platform so rest in peace that version.
+	To be fair I took it as a sign to take a break and starting from scratch actually worked
+	better for an odd reason, so it was stressful but I made it through... sort of.
+	
+		Some implements of my game are for a possibility of continuation in the future.
+	I think this could make a cute spooky rougelike game for a game jam possibly. Granted,
+	not much of a game jam when most of what I have is sort of already planned out.
+		Redardless the coding obviously took some struggles, and because of this I did not
+	remake some of my art assets like I was hoping to, but the main walking animation is there.
+	Audio and particles I have a pretty good understanding of so long as everything talks to one
+	another properly in the scripts.
+	
+		I won't lie, still not super comfortable with coding. Especially after somehow destroying
+	the program (QA testing might be a great future carreer path for me). However, I feel I can 
+	handle most of the basics. New goals of mine include getting more comfortable with camera 
+	switching or scene changes possibly. Most of what I did this time was what I already knew
+	as I kind of cut my own time manegment in a sliver with a major project crash. 
+	
+	I feel like I ran a marathon... it's done though. 
+	
+	
+										- Assets Used -
+				Audio
+	"Spooky Halloween instrumental" Alex Productions 4.0 Attribution Non-Commercial
+	https://freemusicarchive.org/music/alex-productions/single/spooky-halloween-instrumental-halloween/
+	
+	"Walking on wood" FreeSoundsxx - Free Use
+	https://pixabay.com/sound-effects/walking-on-wood-268456/
+	
+	"bell" Atkom (Freesound) - Free Use
+	https://pixabay.com/sound-effects/bell-102948/
+	
+				Art
+			All done by me! - Daelyn Wilson
