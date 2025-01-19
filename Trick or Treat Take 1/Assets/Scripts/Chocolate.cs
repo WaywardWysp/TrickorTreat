@@ -6,7 +6,7 @@ public class Chocolate : MonoBehaviour
 {
 
     AudioSource audioSource;
-    
+
     private PlayerController Player;
     private NonPlayerController NPC;
 
@@ -56,7 +56,7 @@ public class Chocolate : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
     void OnTriggerEnter2D(Collider2D other)
@@ -65,10 +65,11 @@ public class Chocolate : MonoBehaviour
 
         if (player != null)
         {
-            player.ChangeScore(-10);
-            Destroy(gameObject);
-
+            player.gameOverText.SetActive(true);
+            player.gameOver = true;
+            player.speed = 0;
         }
 
     }
+
 }

@@ -28,7 +28,7 @@ public class PlayerController : MonoBehaviour
 
     public GameObject gameOverText;
     public GameObject gameWinText;
-    bool gameOver;
+    public bool gameOver;
 
     AudioSource audioSource;
 
@@ -73,12 +73,6 @@ public class PlayerController : MonoBehaviour
 
 
         //All end game choices
-        if (score < 0)
-        {
-            gameOverText.SetActive(true);
-            speed = 0;
-            gameOver = true;
-        }
 
         if (score == maxScore)
         {
